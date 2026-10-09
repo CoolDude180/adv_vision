@@ -1,0 +1,4 @@
+cmd:
+H:
+cd Programming\ind_project\adv_vision
+.venv\Scripts\activate
